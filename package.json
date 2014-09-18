@@ -1,0 +1,9 @@
+{
+    "name": "pflynn.charcount",
+    "title": "Statusbar Char Count",
+    "homepage": "https://github.com/peterflynn/brackets-charcount",
+    "author": "Peter Flynn",
+    "version": "1.0.0",
+    "engines": { "brackets": ">= 0.23" },
+    "description": "Displays character count of current file in the status bar (useful for planning Twitter posts, among other things)"
+}
